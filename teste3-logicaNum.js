@@ -1,4 +1,4 @@
-a) 1, 3, 5, 7, __9_ //numeros ímpares
+a) 1, 3, 5, 7, _9_ //numeros ímpares
 
 b) 2, 4, 8, 16, 32, 64, __128__ //multiplica por 2 o resultado anterior
 
